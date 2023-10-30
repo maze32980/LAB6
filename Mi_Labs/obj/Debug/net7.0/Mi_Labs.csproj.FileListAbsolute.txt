@@ -1,0 +1,14 @@
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\bin\Debug\net7.0\Mi_Labs.exe
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\bin\Debug\net7.0\Mi_Labs.deps.json
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\bin\Debug\net7.0\Mi_Labs.runtimeconfig.json
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\bin\Debug\net7.0\Mi_Labs.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\bin\Debug\net7.0\Mi_Labs.pdb
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\Mi_Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\Mi_Labs.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\Mi_Labs.AssemblyInfo.cs
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\Mi_Labs.csproj.CoreCompileInputs.cache
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\Mi_Labs.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\refint\Mi_Labs.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\Mi_Labs.pdb
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\Mi_Labs.genruntimeconfig.cache
+C:\Users\volos\source\repos\Mi_Labs\Mi_Labs\obj\Debug\net7.0\ref\Mi_Labs.dll

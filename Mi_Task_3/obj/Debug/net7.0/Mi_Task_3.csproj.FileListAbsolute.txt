@@ -1,0 +1,17 @@
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\bin\Debug\net7.0\Mi_Task_3.exe
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\bin\Debug\net7.0\Mi_Task_3.deps.json
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\bin\Debug\net7.0\Mi_Task_3.runtimeconfig.json
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\bin\Debug\net7.0\Mi_Task_3.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\bin\Debug\net7.0\Mi_Task_3.pdb
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.AssemblyInfo.cs
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.csproj.CoreCompileInputs.cache
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\refint\Mi_Task_3.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.pdb
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.genruntimeconfig.cache
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\ref\Mi_Task_3.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.csproj.AssemblyReference.cache
+C:\Users\volos\source\repos\Mi_Labs\Mi_Task_3\obj\Debug\net7.0\Mi_Task_3.csproj.CopyComplete
